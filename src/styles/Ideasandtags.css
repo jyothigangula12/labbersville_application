@@ -1,0 +1,18 @@
+.right{
+	position: relative;
+	float : right;
+}
+.Subheader{
+	font-size: 30px !important;
+	background-color: #448AFF;
+	color : white !important;
+	font-family: Lucida Handwriting ;
+}
+.Subheader1{
+	font-size: 30px !important;
+	background-color: #00838F;
+	color : white !important;
+	font-family: Lucida Handwriting ;
+}
+
+.material-icons.red900 { color: #B71C1C; }
